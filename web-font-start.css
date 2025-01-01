@@ -14,6 +14,12 @@
   font-style: normal;
 }
 
+.rubik-vinyl-regular {
+  font-family: "Rubik Vinyl", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* General setup */
 
 html {
@@ -32,7 +38,7 @@ body {
 
 h1 {
   font-size: 3.2rem;
-  font-family: "archisticonormal";
+  font-family: "Rubik Vinyl";
 }
 
 h2 {
